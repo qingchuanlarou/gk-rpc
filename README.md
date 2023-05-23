@@ -4,11 +4,11 @@
 
 以下是运行成功的图：
 
-Server端:![image-20230523215349171](C:\Users\10434\AppData\Roaming\Typora\typora-user-images\image-20230523215349171.png)
+Server端:
+![](https://github.com/qingchuanlarou/gk-rpc/image/1.png)
 
 Client端：
-
-![image-20230523215456250](C:\Users\10434\AppData\Roaming\Typora\typora-user-images\image-20230523215456250.png)
+![](https://github.com/qingchuanlarou/gk-rpc/image/2.png)
 
 ## 项目架构分析
 

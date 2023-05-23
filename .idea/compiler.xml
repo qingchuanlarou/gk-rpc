@@ -11,12 +11,10 @@
         <module name="gk-rpc-client" />
         <module name="gk-rpc-codec" />
         <module name="gk-rpc-transport" />
+        <module name="gk-rpc-example" />
         <module name="gk-rpc-server" />
         <module name="gk-rpc-proto" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="gk-rpc-example" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
